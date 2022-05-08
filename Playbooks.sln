@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Playbooks", "Playbooks\Playbooks.pyproj", "{BC854B6A-00D9-452E-B105-10C5C8CB806D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC854B6A-00D9-452E-B105-10C5C8CB806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC854B6A-00D9-452E-B105-10C5C8CB806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34297D34-C72B-4C87-90D3-155FAB4263B4}
+	EndGlobalSection
+EndGlobal
